@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "user": "mohamed@mail.com",
+        "title": "Local Fundraiser",
+        "details": "Local Fundraiser for the local community",
+        "target": 20000.0,
+        "start_date": "2000-2-2",
+        "end_date": "2000-8-8"
+    },
+    {
+        "id": 2,
+        "user": "rana@mail.com",
+        "title": "Hospital Supplies",
+        "details": "Fundraiser for hospital supplies",
+        "target": 30000.0,
+        "start_date": "2000-4-2",
+        "end_date": "2000-10-10"
+    },
+    {
+        "id": 3,
+        "user": "khaled@mail.com",
+        "title": "Welfare Fundraiser",
+        "details": "Fundraiser for the welfare of the community",
+        "target": 50000.0,
+        "start_date": "2000-4-6",
+        "end_date": "2000-8-10"
+    }
+]
